@@ -66,7 +66,7 @@ h4{
             </div>
             <div class="carousel-inner">
             <div class="carousel-item active" data-bs-interval="10000">
-                <div style="background: url(img/1.jpg) no-repeat ;background-size: cover;" class="sai-c1 sai-caro">
+                <div style="background: url(img/bg.jpg) no-repeat ;background-size: cover;" class="sai-c1 sai-caro">
                    <div class="container">
                        <div class="sai-caro-caption">
                             <center>
@@ -234,7 +234,6 @@ h4{
             <div class="container">    
                 <div style="width:100%;height:auto;padding-bottom:50px;" class="whovr">
                     <center>                    
-                   <p style="font-family: 'Quantico', sans-serif;"><b>BUILDING BETTER IS A MATTER OF CHOICE !</b><br></p>
                     <p style="line-height:2">
                     Sai RMC India has delivered superior quality Ready Mix Concrete Pune for over 5 years for all types of residential and commercial projects. Some of the examples of project categories where we have been supplying RMC include: Luxury Residential Villas, Multistoried Apartments, Farmhouses, Commercial Buildings
                     </p>
@@ -263,6 +262,8 @@ h4{
         </div>
         </div>
     </div>
+
+    <?php include 'partials/footer.php'; ?>
     <script src="script.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
 </body>
