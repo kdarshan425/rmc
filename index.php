@@ -23,6 +23,19 @@ h4{
     font-family: 'Raleway',sans-serif;
     font-weight:700;
 }
+
+.home{
+    background:url('img/project-bg.jpg') no-repeat;
+    background-size:cover;
+
+}
+@media only screen and (max-width: 500px){
+    .home{
+    background:url('img/project-bg-mob.jpg') no-repeat;
+    background-size:cover;
+
+}
+}
     </style>
 </head>
 <body>
@@ -120,7 +133,7 @@ h4{
         </div>
 	</div>
 
-    <div style="background:url(img/project-bg.jpg) no-repeat; background-size:cover;" class="home">
+    <div class="home">
         <div class="container">
             <div style="padding:50px;" class="home-abt-head">
                 <center>
