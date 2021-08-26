@@ -137,7 +137,7 @@ h4{
 					</div>
 				</div>
 			</div>
-			<div class="marcol col-lg-4 col-md-6 blog-right mt-lg-0 mt-5 pt-lg-0 ">
+			<div class="marcol col-lg-4 col-md-6 blog-right mb-lg-0 mb-sm-5 pb-lg-0 ">
 				<img src="img/3.jpg" style="width:100%;height:200px" class="img-fluid" alt="">
 				<!-- <img src="images/s4.jpg" class="img-fliud" alt="" ;overflow:allow;/> -->
 				<div class="container">
@@ -195,7 +195,7 @@ h4{
         
         <div class="container">
         <div class="row blog-grids">
-			<div class="marcol col-lg-6 col-md-6 blog-left ">
+			<div class="marcol col-lg-6 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0">
 				<img src="img/1.jpg" style="width:100%;height:200px;overflow:allow;" class="img-fluid" alt="" />
 				<div class="container">
 					<div class="blog-info">
@@ -207,7 +207,7 @@ h4{
 				</div>
 			</div>
 			
-			<div class="marcol col-lg-6 col-md-6 blog-right  ">
+			<div class="marcol col-lg-6 col-md-6 blog-right  mb-lg-0 mb-sm-5 pb-lg-0">
 				<img src="img/3.jpg" style="width:100%;height:200px" class="img-fluid" alt="">
 				<!-- <img src="images/s4.jpg" class="img-fliud" alt="" ;overflow:allow;/> -->
 				<div class="container">
