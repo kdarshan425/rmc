@@ -36,6 +36,24 @@ h4{
 
 }
 }
+
+.project{
+    background:url('img/project-bg1.jpg') no-repeat;
+    background-size:cover;
+}
+
+@media only screen and (max-width: 500px){
+    .project{
+    background:url('img/project-bg1-mob.jpg') no-repeat;
+    background-size:cover;
+
+}
+}
+.inner-project{
+    /* For browsers that do not support gradients */
+  background-image: linear-gradient(white,transparent);
+}
+
     </style>
 </head>
 <body>
@@ -168,6 +186,83 @@ h4{
         </div>
     </div>
 
+    <div class="container">
+        <div style="padding:50px;" class="home-abt-head">
+            <center>
+            <h1 style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>Who WE ARE</b></h1>
+            </center>                
+        </div>
+        
+        <div class="container">
+        <div class="row blog-grids">
+			<div class="marcol col-lg-6 col-md-6 blog-left ">
+				<img src="img/1.jpg" style="width:100%;height:200px;overflow:allow;" class="img-fluid" alt="" />
+				<div class="container">
+					<div class="blog-info">
+						<h4>What is RMC?</h4>
+						<p class="mt-2"> 
+                        RMC refers to Ready Mix Concrete which is the perfect mixture of concrete manufactured within a factory known as batching plant based on a specific formula. and is delivered to the work site in a transit vehicle.
+                        </p>
+					</div>
+				</div>
+			</div>
+			
+			<div class="marcol col-lg-6 col-md-6 blog-right  ">
+				<img src="img/3.jpg" style="width:100%;height:200px" class="img-fluid" alt="">
+				<!-- <img src="images/s4.jpg" class="img-fliud" alt="" ;overflow:allow;/> -->
+				<div class="container">
+					<div class="blog-info">
+						<h4>Why us</h4>
+						<p class="mt-2">
+                        Sai RMC India manufactures custom RMC formulations based on the specific needs and budget of the client. We are fully equipped to ensure that both quality and consistency are maintained across each batch.
+                        </p>
+					</div>
+				</div>
+			</div>
+		</div>
+        </div>
+	</div>
+
+    <div class="project">
+        <div class="inner-project">
+        <div class="container">
+            <div style="padding:50px;" class="home-abt-head">
+                <center>
+                <h1 style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>OUR PROJECTS</b></h1>
+                </center>                
+            </div>
+            <div class="container">    
+                <div style="width:100%;height:auto;padding-bottom:50px;" class="whovr">
+                    <center>                    
+                   <p style="font-family: 'Quantico', sans-serif;"><b>BUILDING BETTER IS A MATTER OF CHOICE !</b><br></p>
+                    <p style="line-height:2">
+                    Sai RMC India has delivered superior quality Ready Mix Concrete Pune for over 5 years for all types of residential and commercial projects. Some of the examples of project categories where we have been supplying RMC include: Luxury Residential Villas, Multistoried Apartments, Farmhouses, Commercial Buildings
+                    </p>
+                    <p style="line-height:2">
+                    Supporting our state-of-the-art manufacturing/batching facility is our advanced fleet of delivery vehicles and equipment. Along with our expertise in delivery, we can transport Ready Mix Concrete at the work site. Our high-capacity concrete pumps can also lift the mix to the required height, no matter the scale and magnitude of your project.
+                    <br>
+                     <a href="">Read More</a> </p>
+                    </center>
+                </div>        
+                <!-- <div class="row">
+                    <div class="col-lg-6">
+                        <h3 style="font-family: 'Quantico', sans-serif;">BUILDING BETTER IS A MATTER OF CHOICE !<br></h3>
+                        <p>We Sai Ready-mix Concrete introduce ourselves as experienced, quality oriented, provider of ready-mixed concrete since last 5 years and serving 180+ prestigious construction companies in and around Pune.</p>
+
+                    </div>
+                    <div class="col-lg-6">
+                    <p style="font-size:17px;">
+                        We are the only Ready Mix Concrete Company in the region that offers a versatile range of concrete mixes for all types of structures and buildings, including High-strength, Early-strength and Fiber-reinforced concrete.<br>
+
+                        We can also manufacture and deliver customized RMC formulations to fulfill your specific needs. We also take client budget into account to ensure that there is never any compromise on both quality and value-for-money. When you choose our services, you can remain assured about the consistency of quality across all batches.<br>
+
+                    </p>
+                    </div>
+                </div>                 -->
+            </div>
+        </div>
+        </div>
+    </div>
     <script src="script.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
 </body>
