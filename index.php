@@ -79,7 +79,7 @@ h4{
                 </div>                
             </div>
             <div class="carousel-item" data-transition="fade"  data-bs-interval="2000">
-                <div style="background: url(img/2.jpg) no-repeat ;background-size: cover;" class="sai-c2 sai-caro">
+                <div style="background: url(img/3.jpg) no-repeat ;background-size: cover;" class="sai-c2 sai-caro">
                     <div class="container">
                         <div class="sai-caro-caption">
                             <center>
