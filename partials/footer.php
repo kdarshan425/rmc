@@ -1,9 +1,10 @@
 <div style="padding-top:0px;">
 <footer style="background: black;padding-top: 24px;padding-bottom: 24px; width: 100%">
     <div class="container">
+        <div class="container">
         <div class="row" style="padding-bottom:20px;padding-top:50px;border-bottom:1px #c7c5c5 solid;">
             <div class="col-lg-4">
-                <div class="container">
+                
                 <p style="font-size:13px;color: #c7c5c5;font-weight: 300;font-family: 'Raleway', sans-serif;">
                         The biggest advantage of Ready Mix Concrete (RMC) is that this concrete
                     is specifically batched for your construction project at our batching plant and delivered directly at 
@@ -13,7 +14,7 @@
                     right formula and admixtures and retarders to ensure proper hydration.
                     
                 </p>
-                </div>            
+                            
             </div>
             <div class="col-lg-4">
                 <center>
@@ -46,7 +47,7 @@
                     Working Hours: Mon - Sat 9:00 - 19:00 <br>
                 </p>
                 </center>
-                
+                </div>       
             </div>
         </div>
     </div>        
