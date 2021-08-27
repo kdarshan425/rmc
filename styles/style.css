@@ -204,3 +204,18 @@ p{
         font-family: 'Raleway',sans-serif;
         font-weight:bolder;
     }
+
+    
+    .inner-project{
+        /* For browsers that do not support gradients */
+      background-image: linear-gradient(white,transparent);
+    }
+    
+    
+.card2{
+    padding-bottom:30px;
+}
+.card2 img{
+    width:100px;
+    height:auto;
+}

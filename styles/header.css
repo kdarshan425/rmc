@@ -7,6 +7,51 @@ html{
 
 }
 
+/*hamburger menu*/
+.hamburger-menu {
+  width: 30px;
+  height: 25px;
+  position: relative;    
+  right: 0px;
+  display: flex;
+  cursor: pointer;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+span {
+  color: rgb(248, 246, 246);
+  font-size: 45px;
+}
+.line2 {
+  transition: all ease-in-out 0.5s 0.8s;
+  transition: right 0.8s cubic-bezier(1, 0, 0, 1);
+  width: 70% !important;
+  height: 3.2px;
+  border-radius: 1rem;
+  background: rgb(3, 3, 3);
+}
+.line1,
+.line3 {
+  height: 3px;
+  width: 70%;
+  border-radius: 1rem;
+  background: rgb(0, 0, 0);
+}
+
+.change .line1 {
+  transform: rotatez(-405deg) translate(-8px, 6px);
+  transition: all ease-in-out 0.5s;
+}
+.change .line2 {
+  opacity: 0;
+}
+.change .line3 {
+  transform: rotatez(405deg) translate(-7px, -5px);
+  transition: all ease-in-out 0.5s;
+}
+
+
 /* Top Nav*/
 .topnav {
     padding-top: 1px;

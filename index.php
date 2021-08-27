@@ -11,6 +11,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Abhaya+Libre&family=Abril+Fatface&family=Quantico:ital@1&family=Raleway:wght@200&display=swap" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+    <link rel="stylesheet" href="owl-caro/owl.carousel.min.css">
+    <link rel="stylesheet" href="owl-caro/owl.theme.default.min.css">
     <style>
   @media only screen and (min-width: 800px){
 .whovr {
@@ -25,34 +27,30 @@ h4{
 }
 
 .home{
-    background:url('img/project-bg.jpg') no-repeat;
-    background-size:cover;
-
-}
-@media only screen and (max-width: 500px){
-    .home{
-    background:url('img/project-bg-mob.jpg') no-repeat;
-    background-size:cover;
-
-}
-}
-
-.project{
-    background:url('img/project-bg1.jpg') no-repeat;
-    background-size:cover;
-}
-
-@media only screen and (max-width: 500px){
+        background:url('img/project-bg.jpg') ;
+        background-size:cover;
+    
+    }
+    @media only screen and (max-width: 500px){
+        .home{
+        background:url('img/project-bg-mob.jpg') ;
+        background-size:cover;
+    
+    }
+    }
+    
     .project{
-    background:url('img/project-bg1-mob.jpg') no-repeat;
-    background-size:cover;
-
-}
-}
-.inner-project{
-    /* For browsers that do not support gradients */
-  background-image: linear-gradient(white,transparent);
-}
+        background:url('img/project-bg1.jpg') ;
+        background-size:cover;
+    }
+    
+    @media only screen and (max-width: 500px){
+        .project{
+        background:url('img/project-bg1-mob.jpg') ;
+        background-size:cover;
+    
+    }
+    }
 
     </style>
 </head>
@@ -107,43 +105,37 @@ h4{
             </button>
         </div>
     </div>
-    
    
-	<div class="container ">	
+    <div class="container">
         <div style="padding:50px;" class="home-abt-head">
             <center>
-            <h1 style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>Why SAI RMC</b></h1>
+            <h1 style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>SAI RMC</b></h1>
             </center>                
         </div>
+        
         <div class="container">
         <div class="row blog-grids">
-			<div class="marcol col-lg-4 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0 ">
+			<div class="marcol col-lg-6 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0">
 				<img src="img/1.jpg" style="width:100%;height:200px;overflow:allow;" class="img-fluid" alt="" />
 				<div class="container">
 					<div class="blog-info">
-						<h4>Promise</h4>
+						<h4>What is RMC?</h4>
 						<p class="mt-2"> 
-                        Whatever the quantity of our orders, our fleet of delivery vehicles ensures that your RMC is delivered on time,
+                        RMC refers to Ready Mix Concrete which is the perfect mixture of concrete manufactured within a factory known as batching plant based on a specific formula. and is delivered to the work site in a transit vehicle.
                         </p>
 					</div>
 				</div>
 			</div>
-			<div class="marcol col-lg-4 col-md-6 blog-middle mb-lg-0 mb-sm-5 pb-lg-0 ">
-				<img src="img/2.jpg"  style="width:100%;height:200px;overflow:allow;" class="img-fluid" alt="" />
-				<div class="container">
-					<div class="blog-info">
-						<h4>Environmental focus</h4>
-						<p class="mt-2">All our factory procedures pass through standard inspection and verifications,Thats why we deliever the great</p>
-					</div>
-				</div>
-			</div>
-			<div class="marcol col-lg-4 col-md-6 blog-right mb-lg-0 mb-sm-5 pb-lg-0 ">
+			
+			<div class="marcol col-lg-6 col-md-6 blog-right  mb-lg-0 mb-sm-5 pb-lg-0">
 				<img src="img/3.jpg" style="width:100%;height:200px" class="img-fluid" alt="">
 				<!-- <img src="images/s4.jpg" class="img-fliud" alt="" ;overflow:allow;/> -->
 				<div class="container">
 					<div class="blog-info">
-						<h4>Client satisfaction & quality </h4>
-						<p class="mt-2">Every Sai RMC India batch is delivered with 100% satisfaction guarantee  with quality that never compromised!</p>
+						<h4>Why us</h4>
+						<p class="mt-2">
+                        Sai RMC India manufactures custom RMC formulations based on the specific needs and budget of the client. We are fully equipped to ensure that both quality and consistency are maintained across each batch.
+                        </p>
 					</div>
 				</div>
 			</div>
@@ -186,36 +178,41 @@ h4{
         </div>
     </div>
 
-    <div class="container">
+    <div class="container ">	
         <div style="padding:50px;" class="home-abt-head">
             <center>
-            <h1 style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>Who WE ARE</b></h1>
+            <h1 style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>Why SAI RMC</b></h1>
             </center>                
         </div>
-        
         <div class="container">
         <div class="row blog-grids">
-			<div class="marcol col-lg-6 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0">
+			<div class="marcol col-lg-4 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0 ">
 				<img src="img/1.jpg" style="width:100%;height:200px;overflow:allow;" class="img-fluid" alt="" />
 				<div class="container">
 					<div class="blog-info">
-						<h4>What is RMC?</h4>
+						<h4>Promise</h4>
 						<p class="mt-2"> 
-                        RMC refers to Ready Mix Concrete which is the perfect mixture of concrete manufactured within a factory known as batching plant based on a specific formula. and is delivered to the work site in a transit vehicle.
+                        Whatever the quantity of our orders, our fleet of delivery vehicles ensures that your RMC is delivered on time,
                         </p>
 					</div>
 				</div>
 			</div>
-			
-			<div class="marcol col-lg-6 col-md-6 blog-right  mb-lg-0 mb-sm-5 pb-lg-0">
+			<div class="marcol col-lg-4 col-md-6 blog-middle mb-lg-0 mb-sm-5 pb-lg-0 ">
+				<img src="img/2.jpg"  style="width:100%;height:200px;overflow:allow;" class="img-fluid" alt="" />
+				<div class="container">
+					<div class="blog-info">
+						<h4>Environmental focus</h4>
+						<p class="mt-2">All our factory procedures pass through standard inspection and verifications,Thats why we deliever the great</p>
+					</div>
+				</div>
+			</div>
+			<div class="marcol col-lg-4 col-md-6 blog-right mb-lg-0 mb-sm-5 pb-lg-0 ">
 				<img src="img/3.jpg" style="width:100%;height:200px" class="img-fluid" alt="">
 				<!-- <img src="images/s4.jpg" class="img-fliud" alt="" ;overflow:allow;/> -->
 				<div class="container">
 					<div class="blog-info">
-						<h4>Why us</h4>
-						<p class="mt-2">
-                        Sai RMC India manufactures custom RMC formulations based on the specific needs and budget of the client. We are fully equipped to ensure that both quality and consistency are maintained across each batch.
-                        </p>
+						<h4>Client satisfaction & quality </h4>
+						<p class="mt-2">Every Sai RMC India batch is delivered with 100% satisfaction guarantee  with quality that never compromised!</p>
 					</div>
 				</div>
 			</div>
@@ -263,8 +260,97 @@ h4{
         </div>
     </div>
 
+    <div class="container" style="padding-bottom:40px;" >
+        <div style="padding:50px;" class="home-abt-head">
+            <center>
+            <h1 style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>OUR CLIENTS</b></h1>
+            </center>                
+        </div>
+        <center>                
+        <div class="wrapper" >
+            <div class="owl-carousel owl-theme">                     
+                <div class="item">
+                    <div class="card2">
+                        <img src="img/client/client_01.jpg">
+                                                
+                    </div>
+                </div>                            
+                <div class="item">
+                    <div class="card2">
+                        <img src="img/client/client_02.jpg" >
+                                                          
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card2">
+                        <img src="img/client/client_03.jpg">
+                                                  
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card2">
+                        <img src="img/client/client_04.jpg">
+                                               
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card2">
+                        <img src="img/client/client_05.jpg">
+                                                          
+                    </div>
+                </div>                        
+                <div class="item">
+                    <div class="card2">
+                        <img src="img/client/client_06.jpg">
+                                                      
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card2">
+                        <img src="img/client/client_07.jpg">
+                                                    
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card2">
+                        <img src="img/client/client_08.jpg">
+                                                         
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card2">
+                        <img src="img/client/client_09.jpg">
+                                                       
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card2">
+                        <img src="img/client/client_10.jpg">
+                                                            
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card2">
+                        <img src="img/client/client_11.jpg">
+                                                           
+                    </div>
+                </div>
+                <div class="item">
+                    <div class="card2">
+                        <img src="img/client/client_12.jpg">
+                                                         
+                    </div>
+                </div>
+            </div>    
+        </div>   
+        </center> 
+    </div>
+
     <?php include 'partials/footer.php'; ?>
     <script src="script.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+    <script src="owl-caro/jquery.2.min.js"></script>
+    <script src="owl-caro/owl.carousel.min.js"></script>
+    <script src="owl-caro/jquery.js"></script>
 </body>
 </html>

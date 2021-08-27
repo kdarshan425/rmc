@@ -7,7 +7,12 @@
         <a  href="index.php">Home</a>       
 
         <a href="javascript:void(0);" class="icon"  onclick="dk_open()">
-           lll <i class="fa fa-bars"></i>
+
+        <div class="hamburger-menu">
+            <div class="line line1"></div>
+            <div class="line line2"></div>
+            <div class="line line3"></div>
+        </div> 
         </a>
     
     </div>
