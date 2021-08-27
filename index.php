@@ -52,6 +52,7 @@ h4{
     }
     }
 
+    
     </style>
 </head>
 <body>
@@ -260,7 +261,7 @@ h4{
         </div>
     </div>
 
-    <div class="container" style="padding-bottom:40px;" >
+    <div class="container" style="padding-bottom:70px;" >
         <div style="padding:50px;" class="home-abt-head">
             <center>
             <h1 style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>OUR CLIENTS</b></h1>

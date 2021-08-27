@@ -225,7 +225,7 @@ div.content {
 
 @media screen and (max-width: 500px) {
  .sidebar {
-    width: 90%;
+    width: 80%;
     height: 100%;
     position: fixed;
     z-index: 101;

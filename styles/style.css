@@ -62,7 +62,7 @@ margin-top: auto;
 @media(max-width:768px){
     .sai-caro{
         min-width: 100%;
-        height:100vh;
+        height:80vh;
         background-repeat: no-repeat;
         background-size: cover;
         margin-top: auto;
@@ -213,7 +213,7 @@ p{
     
     
 .card2{
-    padding-bottom:30px;
+    padding-bottom:40px;
 }
 .card2 img{
     width:100px;
