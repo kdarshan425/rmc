@@ -183,6 +183,7 @@ a button:hover{
 }
 
 .sidebar a {
+  font-weight: bold !important;
     font-weight: 500;
   display: block;
   color: black;
@@ -224,6 +225,9 @@ div.content {
 }
 
 @media screen and (max-width: 500px) {
+  .sai-caro-caption {
+    padding-top: 4cm;
+}
  .sidebar {
     width: 80%;
     height: 100%;
