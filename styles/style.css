@@ -219,3 +219,15 @@ p{
     width:100px;
     height:auto;
 }
+
+/*
+.title::after {
+    width: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    display: block;
+    content: "";
+    background: #F4BC16;
+    height: 2px;
+    */
