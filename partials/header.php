@@ -24,5 +24,5 @@
     <a href="javascript:void(0)" onclick="dk_close()" style="padding-top: 30px;font-size: 20px;">Close ×</a>
     <a  href="index.php" onclick="dk_close()">Home</a>      
     <a  href="users.php" onclick="dk_close()">About</a>
-    <a  href="transaction.history.php" onclick="dk_close()">Blog</a>   
+    <a  href="products.php" onclick="dk_close()">Products</a>   
 </nav>
