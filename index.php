@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SAI RMC INDIA</title>
+    <script src="https://kit.fontawesome.com/d82b93004d.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="styles/style.css">
     <link rel="stylesheet" type="text/css" href="styles/header.css">
     <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -52,7 +53,18 @@ h4{
     }
     }
 
-    
+    .dropdown {
+  float: right;
+  overflow: hidden;
+  
+}
+
+.dropdown-container {
+  display: none;
+  background-color: white;
+  padding-left: 8px;
+}
+
     </style>
 </head>
 <body>
@@ -87,7 +99,7 @@ h4{
                                     <h1>SAI RMC INDIA</h1>
                                     <h2 style="color:white">SOPHISTICATION AND EXCELLENCE AT ITS BEST</h2> 
                                     <div style="padding-top:50px;">
-                                    <a  class="banner-btn btn-f" href="">PROJECTS</a>   
+                                    <a  class="banner-btn btn-f" href="products.php">Products</a>   
                                     </div>                                                      
                                 </div>
                             </center>
@@ -348,6 +360,7 @@ h4{
     </div>
 
     <?php include 'partials/footer.php'; ?>
+    
     <script src="script.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
     <script src="owl-caro/jquery.2.min.js"></script>

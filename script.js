@@ -40,3 +40,35 @@ function myFunction() {
       navbar.classList.remove("sticky");
     }
   }
+
+  var dropdown = document.getElementsByClassName("dropdown-btn-dk");
+  var i;
+  
+  for (i = 0; i < dropdown.length; i++) {
+    dropdown[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var dropdownContent4 = this.nextElementSibling;
+    if (dropdownContent4.style.display === "block") {
+    dropdownContent4.style.display = "none";
+    } else {
+    dropdownContent4.style.display = "block";
+    }
+    });
+  }
+  
+      //sidebar drop down
+      var dropdown = document.getElementsByClassName("dropdown-btn");
+      var i;
+  
+      for (i = 0; i < dropdown.length; i++) {
+      dropdown[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var dropdownContent = this.nextElementSibling;
+      if (dropdownContent.style.display === "block") {
+      dropdownContent.style.display = "none";
+      } else {
+      dropdownContent.style.display = "block";
+      }
+      });
+      }
+  

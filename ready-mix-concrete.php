@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ready Mix Concrete</title>
+    <script src="https://kit.fontawesome.com/d82b93004d.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="styles/style.css">
     <link rel="stylesheet" type="text/css" href="styles/header.css">
     <link rel="stylesheet" type="text/css" href="styles/card.css">
@@ -111,7 +112,7 @@
                             <li><a href="water-resist-concrete.php">Water resist concrete</a></li>
                             <li><a href="color-stamped-concrete.php">Color stamped concrete</a></li>
                             <li><a href="self-compacted-concrete.php">Self commpacting concrete</a></li>
-                            <li><a href="light-weight-concrete">light weight concrete</a></li>
+                            <li><a href="light-weight-concrete.php">light weight concrete</a></li>
                         </ul>
                         </div>
                     </div>

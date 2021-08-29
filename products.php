@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Products</title>
+    <script src="https://kit.fontawesome.com/d82b93004d.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="styles/style.css">
     <link rel="stylesheet" type="text/css" href="styles/header.css">
     <link rel="stylesheet" type="text/css" href="styles/card.css">
@@ -89,7 +90,7 @@
                             <li><a href="water-resist-concrete.php">Water resist concrete</a></li>
                             <li><a href="color-stamped-concrete.php">Color stamped concrete</a></li>
                             <li><a href="self-compacted-concrete.php">Slef commpacting concrete</a></li>
-                            <li><a href="light-weight-concrete">light weight concrete</a></li>
+                            <li><a href="light-weight-concrete.php">light weight concrete</a></li>
                         </ul>
                         </div>
                     </div>
@@ -131,7 +132,7 @@
                                 </div>                    
                                 <div class="card-body chal-card-body" style="align-item:center; padding: 2.15rem;">                                                       
                                     <h5 class="card-title" style=" line-height: 1.3;">READY MIX CONCRETE</h5>
-                                    <p class="card-text" style="padding-bottom:30px;font-weight:200;">
+                                    <p class="card-text" style="padding-bottom:30px;font-weight:500;">
                                     Ready Mixed Concrete is a type of concrete which is generally mixed and made 
                                     in a central plant and not at the construction site. This concrete is generally mixed 
                                     based on the type of construction work being done and its specific requirements. Hence choosing a company 
@@ -153,7 +154,7 @@
                                 </div>                    
                                 <div class="card-body chal-card-body" style="align-item:center; padding: 2.15rem;">                                                       
                                     <h5 class="card-title" style=" line-height: 1.3;">WATER RESIST CONCRETE</h5>
-                                    <p class="card-text" style="padding-bottom:30px;font-weight:200;">
+                                    <p class="card-text" style="padding-bottom:30px;font-weight:500;">
                                     Contains specially formulated admixture that reacts with moisture in the fresh concrete and by products of cement hydration to cause a catalytic reaction.The process generates a non soluble crystalline formation throughout the pores and concrete making it Water Tight.
 
                                     <br><br><a href="water-resist-concrete.php">view</a>    
@@ -173,7 +174,7 @@
                                 </div>                    
                                 <div class="card-body chal-card-body" style="align-item:center; padding: 2.15rem;">                                                       
                                     <h5 class="card-title" style=" line-height: 1.3;">COLOUR STAMPED CONCRETE</h5>
-                                    <p class="card-text" style="padding-bottom:30px;font-weight:200;">
+                                    <p class="card-text" style="padding-bottom:30px;font-weight:500;">
                                     Normal Concrete made with Grey cement cannot provide the liberty to architects to explore their vision and bring variety in the treatment of various elements of the building. Colour stamped Concrete is flexible and easy to gel with any creative ideas and concepts.
                                     <br><br><a href="color-stamped-concrete.php">view</a>    
                                 </p>
@@ -192,7 +193,7 @@
                                 </div>                    
                                 <div class="card-body chal-card-body" style="align-item:center; padding: 2.15rem;">                                                       
                                     <h5 class="card-title" style=" line-height: 1.3;">SELF COMPACTING CONCRETE</h5>
-                                    <p class="card-text" style="padding-bottom:30px;font-weight:200;">
+                                    <p class="card-text" style="padding-bottom:30px;font-weight:500;">
                                     Self Compacting Concrete is a Special concrete characterised by high resistance to segregation; can be cast with minimal compaction and can easily spread & fill every nook & corner of the formwork by its unique free flow ability.
                                     <br><br><a href="self-compacted-concrete.php">view</a>    
                                 </p>
@@ -211,7 +212,7 @@
                                 </div>                    
                                 <div class="card-body chal-card-body" style="align-item:center; padding: 2.15rem;">                                                       
                                     <h5 class="card-title" style=" line-height: 1.3;">LIGHT WEIGHT CONCRETE</h5>
-                                    <p class="card-text" style="padding-bottom:30px;font-weight:200;">
+                                    <p class="card-text" style="padding-bottom:30px;font-weight:500;">
                                     Light Weight Concrete comes within a wide range of densities, varying from 600 – 1800 kgs/cum. Self weight of concrete structure represents a large portion of the loading for design consideration.
                                     <br><br><a href="light-weight-concrete.php">view</a>    
                                 </p>

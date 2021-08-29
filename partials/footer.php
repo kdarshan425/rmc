@@ -5,7 +5,7 @@
         <div class="row" style="padding-bottom:20px;padding-top:50px;border-bottom:1px #c7c5c5 solid;">
             <div class="col-lg-4">
                 
-                <p style="font-size:13px;color: #c7c5c5;font-weight: 300;font-family: 'Raleway', sans-serif;">
+                <p style="text-align:center;font-size:13px;color: #c7c5c5;font-weight: 300;font-family: 'Raleway', sans-serif;">
                         The biggest advantage of Ready Mix Concrete (RMC) is that this concrete
                     is specifically batched for your construction project at our batching plant and delivered directly at 
                     your work site. We at Sai RMC India, use the latest and most advanced equipment to batch RMC under controlled
