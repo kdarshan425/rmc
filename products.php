@@ -43,7 +43,6 @@
             float:left;
             font-size: 13px;    
             padding: 15px 0px;    
-            text-transform: uppercase;
         }
 
         span {

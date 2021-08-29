@@ -3,7 +3,7 @@
         <a href="index.php" style="float:left;font-weight: 900;font-family: 'Raleway', sans-serif;"><img style="width:70px;height:auto;" src="img/logo1.png"></a>
         <a style="height: 60px;"></a>  
         
-        <a  href="index.php">Gallery</a>  
+        <a  href="contactus.php">Contact</a>  
         
         <div class="dropdown" style="right:0px">
         <a href="products.php" class="dropbtn">Products</a>
@@ -49,7 +49,7 @@
     <a style="font-size: 17px;" href="self-compacted-concrete.php" onclick="dk_close()" >Self commpacting concrete</a>
     <a style="font-size: 17px;" href="light-weight-concrete.php" onclick="dk_close()" >light weight concrete</a>
     </div>
-    <a  href="users.php" onclick="dk_close()">Gallery</a>
+    <a  href="contactus.php" onclick="dk_close()">Contact Us</a>
       
     
 </nav>
