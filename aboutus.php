@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>About Us</title>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/d82b93004d.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="styles/style.css">
     <link rel="stylesheet" type="text/css" href="styles/header.css">
@@ -20,7 +21,7 @@
 <body>
     <?php include 'partials/header.php'; ?>
     <div style="padding-top:100px;" class="container ch-head" style="text-align: center;">
-        <center><h1 style="color:#6d6d7d;">About Us</h1></center>
+        <center><h1 data-aos="zoom-in" style="color:#6d6d7d;">About Us</h1></center>
     </div>
 
     <div  class="container" style="padding-bottom:40px;padding-top:50px;">

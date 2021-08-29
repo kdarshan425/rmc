@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SAI RMC INDIA</title>
+    <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     <script src="https://kit.fontawesome.com/d82b93004d.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" type="text/css" href="styles/style.css">
     <link rel="stylesheet" type="text/css" href="styles/header.css">
@@ -82,8 +83,8 @@ h4{
                        <div class="sai-caro-caption">
                             <center>
                                 <div class="container">
-                                    <img class="banner-img"src="img/logo1.png" alt="logo">
-                                    <h1 style="padding-top:20px;">SAI RMC INDIA</h1>
+                                    <img data-aos="flip-left" class="banner-img"src="img/logo1.png" alt="logo">
+                                    <h1 data-aos="zoom-in" style="padding-top:20px;">SAI RMC INDIA</h1>
                                 </div>                                
                             </center>
                        </div>                        
@@ -96,10 +97,10 @@ h4{
                         <div class="sai-caro-caption">
                             <center>
                                 <div class="container">
-                                    <h1>SAI RMC INDIA</h1>
-                                    <h2 style="color:white">SOPHISTICATION AND EXCELLENCE AT ITS BEST</h2> 
+                                    <h1 data-aos="zoom-in" >SAI RMC INDIA</h1>
+                                    <h2 data-aos="flip-right" style="color:white">SOPHISTICATION AND EXCELLENCE AT ITS BEST</h2> 
                                     <div style="padding-top:50px;">
-                                    <a  class="banner-btn btn-f" href="products.php">Products</a>   
+                                    <a  data-aos="flip-right" class="banner-btn btn-f" href="products.php">Products</a>   
                                     </div>                                                      
                                 </div>
                             </center>
@@ -128,7 +129,7 @@ h4{
         
         <div class="container">
         <div class="row blog-grids">
-			<div class="marcol col-lg-6 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0">
+			<div data-aos="fade-up" class="marcol col-lg-6 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0">
 				<img src="img/1.jpg" style="width:100%;height:200px;overflow:allow;" class="img-fluid" alt="" />
 				<div class="container">
 					<div class="blog-info">
@@ -140,7 +141,7 @@ h4{
 				</div>
 			</div>
 			
-			<div class="marcol col-lg-6 col-md-6 blog-right  mb-lg-0 mb-sm-5 pb-lg-0">
+			<div data-aos="fade-up" class="marcol col-lg-6 col-md-6 blog-right  mb-lg-0 mb-sm-5 pb-lg-0">
 				<img src="img/3.jpg" style="width:100%;height:200px" class="img-fluid" alt="">
 				<!-- <img src="images/s4.jpg" class="img-fliud" alt="" ;overflow:allow;/> -->
 				<div class="container">
@@ -160,11 +161,11 @@ h4{
         <div class="container">
             <div style="padding:50px;" class="home-abt-head">
                 <center>
-                <h1 style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>Who WE ARE</b></h1>
+                <h1 data-aos="fade-up" style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>Who WE ARE</b></h1>
                 </center>                
             </div>
             <div class="container">    
-                <div style="width:100%;height:auto;padding-bottom:50px;" class="whovr">
+                <div data-aos="fade-up" style="width:100%;height:auto;padding-bottom:50px;" class="whovr">
                     <center>
                     <p style="font-family: 'Quantico', sans-serif;"><b>BUILDING BETTER IS A MATTER OF CHOICE !</b><br></p>
                     <p style="line-height:2">We Sai Ready-mix Concrete introduce ourselves as experienced, quality oriented, provider of ready-mixed concrete since last 5 years and serving 180+ prestigious construction companies in and around Pune.</p>
@@ -194,12 +195,12 @@ h4{
     <div class="container ">	
         <div style="padding:50px;" class="home-abt-head">
             <center>
-            <h1 style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>Why SAI RMC</b></h1>
+            <h1 data-aos="fade-up" style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>Why SAI RMC</b></h1>
             </center>                
         </div>
         <div class="container">
         <div class="row blog-grids">
-			<div class="marcol col-lg-4 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0 ">
+			<div data-aos="fade-up" class="marcol col-lg-4 col-md-6 blog-left mb-lg-0 mb-sm-5 pb-lg-0 ">
 				<img src="img/1.jpg" style="width:100%;height:200px;overflow:allow;" class="img-fluid" alt="" />
 				<div class="container">
 					<div class="blog-info">
@@ -210,7 +211,7 @@ h4{
 					</div>
 				</div>
 			</div>
-			<div class="marcol col-lg-4 col-md-6 blog-middle mb-lg-0 mb-sm-5 pb-lg-0 ">
+			<div data-aos="fade-up" class="marcol col-lg-4 col-md-6 blog-middle mb-lg-0 mb-sm-5 pb-lg-0 ">
 				<img src="img/2.jpg"  style="width:100%;height:200px;overflow:allow;" class="img-fluid" alt="" />
 				<div class="container">
 					<div class="blog-info">
@@ -219,7 +220,7 @@ h4{
 					</div>
 				</div>
 			</div>
-			<div class="marcol col-lg-4 col-md-6 blog-right mb-lg-0 mb-sm-5 pb-lg-0 ">
+			<div data-aos="fade-up" class="marcol col-lg-4 col-md-6 blog-right mb-lg-0 mb-sm-5 pb-lg-0 ">
 				<img src="img/3.jpg" style="width:100%;height:200px" class="img-fluid" alt="">
 				<!-- <img src="images/s4.jpg" class="img-fliud" alt="" ;overflow:allow;/> -->
 				<div class="container">
@@ -238,11 +239,11 @@ h4{
         <div class="container">
             <div style="padding:50px;" class="home-abt-head">
                 <center>
-                <h1 style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>OUR PROJECTS</b></h1>
+                <h1 data-aos="fade-up" style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>OUR PROJECTS</b></h1>
                 </center>                
             </div>
             <div class="container">    
-                <div style="width:100%;height:auto;padding-bottom:50px;" class="whovr">
+                <div data-aos="fade-up" style="width:100%;height:auto;padding-bottom:50px;" class="whovr">
                     <center>                    
                     <p style="line-height:2">
                     Sai RMC India has delivered superior quality Ready Mix Concrete Pune for over 5 years for all types of residential and commercial projects. Some of the examples of project categories where we have been supplying RMC include: Luxury Residential Villas, Multistoried Apartments, Farmhouses, Commercial Buildings
@@ -276,7 +277,7 @@ h4{
     <div class="container" style="padding-bottom:70px;" >
         <div style="padding:50px;" class="home-abt-head">
             <center>
-            <h1 style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>OUR CLIENTS</b></h1>
+            <h1 data-aos="fade-up" style="color:#8888a0;font-weight:500;letter-spacing:1px;text-shadow:none;"><b>OUR CLIENTS</b></h1>
             </center>                
         </div>
         <center>                

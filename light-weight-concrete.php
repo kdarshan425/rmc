@@ -101,7 +101,7 @@
     <?php include 'partials/header.php'; ?>
     <div style="width:100%;height:auto;background: url(img/bg.jpg);padding-top:70px;">
         <div style="padding:40px;" class="container">
-        <center><h1 style="color:white;font-family: 'Raleway', sans-serif;">LIGHT WEIGHT CONCRETE</h1></center>
+        <center><h1 data-aos="zoom-in" style="color:white;font-family: 'Raleway', sans-serif;">LIGHT WEIGHT CONCRETE</h1></center>
         </div>    
     </div>
     <div class="container" style="padding-top:50px;padding-bottom:70px;">
