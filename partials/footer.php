@@ -1,5 +1,5 @@
 <div style="padding-top:0px;">
-<footer style="background: black;padding-top: 24px;padding-bottom: 24px; width: 100%">
+<footer class="footer" style="background: black;padding-top: 24px;padding-bottom: 24px; width: 100%">
     <div class="container">
         <div class="container">
         <div class="row" style="padding-bottom:20px;padding-top:50px;border-bottom:1px #c7c5c5 solid;">
@@ -22,13 +22,14 @@
                     <center> <p style="color: #c7c5c5;">Quick Links</p></center>
                 </div>
                 <p style="color: #c7c5c5;font-weight: 300;font-family: 'Raleway', sans-serif;">
-                    Home <br>
-                    About Us <br>
-                    Products <br>
-                    Gallery <br>
-                    Contact Us <br>
-                </p>
-                </center>
+                <a style="text-decoration:none;color:#c7c5c5;background:none" href="index.php">Home</a><br>
+                <a style="text-decoration:none;color:#c7c5c5;background:none" href="aboutus.php">About Us</a> <br>
+                <a style="text-decoration:none;color:#c7c5c5;background:none" href="products.php">Products</a> <br>
+                <a style="text-decoration:none;color:#c7c5c5;background:none" href="contactus.php">Contact Us</a> <br>
+                <a style="text-decoration:none;color:#c7c5c5;background:none" href="products.php">Gallery</a> <br>
+                
+                
+                    </center>
                 
             </div>
             <div class="col-lg-4">

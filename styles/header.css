@@ -418,3 +418,9 @@ div.content {
   background-color: white;
   padding-left: 8px;
 }
+
+.footer a{
+  text-decoration: none;
+  color:white;
+  background:none;
+}

@@ -53,13 +53,13 @@
         <center><h1 style="color:#6d6d7d;">Contact Us</h1></center>
     </div>
     <div  class="container" style="padding-bottom:90px;padding-top:50px;">
-    <div class="container" style="text-align:center;padding-bottom:30px;font-family: 'Archivo', sans-serif;">
-    <center>
-    <div style="max-width:500px;">
-    <p style="color: #8888A0;font-size:18px;">If you're having any query, any suggession, any feedback, We are always there for you! Just post a message below We'll reach you soon in your mail..</p>
-    <p style="color: #8888A0;font-size:18px;">Mail us at info@sairmcindia.com<br>Or</p>
-    </div>
-    </center>       
+        <div class="container" style="text-align:center;padding-bottom:30px;font-family: 'Archivo', sans-serif;">
+        <center>
+            <div style="max-width:500px;">
+            <p style="color: #8888A0;font-size:18px;">If you're having any query, any suggession, any feedback, We are always there for you! Just post a message below We'll reach you soon in your mail..</p>
+            <p style="color: #8888A0;font-size:18px;">Mail us at info@sairmcindia.com<br>Or</p>
+            </div>
+        </center>       
     </div>
     
     <div style="box-shadow: 0px 10px 20px -5px rgb(73 93 207 / 20%);" class="row">        

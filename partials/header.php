@@ -17,7 +17,7 @@
         </div>
         </div>
 
-        <a  href="transaction.history.php">About</a>
+        <a  href="aboutus.php">About</a>
         <a  href="index.php">Home</a>       
 
         <a href="javascript:void(0);" class="icon"  onclick="dk_open()">
@@ -37,7 +37,7 @@
 <nav class="sidebar animate-left" style="display:none" id="mySidebar">
     <a href="javascript:void(0)" onclick="dk_close()" style="padding-top: 30px;font-size: 20px;">Close ×</a>
     <a  href="index.php" onclick="dk_close()">Home</a>      
-    <a  href="users.php" onclick="dk_close()">About</a>
+    <a  href="aboutus.php" onclick="dk_close()">About</a>
     <a  href="products.php" onclick="dk_close()">Products</a>  
     <a  class="dropdown-btn">Overview
     <i class="fa fa-caret-down"></i>
